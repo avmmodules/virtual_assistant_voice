@@ -1,9 +1,7 @@
 '''
-    Description:
-    Change voices of your virtual assistant with Python.
-
-    Author: AlejandroV
-    Version: 1.0
+    Description: Change voices of your virtual assistant with Python.
+    Author: aulerjbailey
+    Version: 1.0.0
     Video: https://youtu.be/UmdisGCHi2s
 '''
 import azure.cognitiveservices.speech as speechsdk
